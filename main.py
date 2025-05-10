@@ -222,5 +222,7 @@ with gr.Blocks() as chat:
     )
     gr.Markdown("© 2025 Esra Belhassen. All rights reserved")
 
-chat.launch(share=True)
+port = int(os.environ.get("PORT", 7860))
+chat.launch(server_name="0.0.0.0", server_port=port)
+
 
