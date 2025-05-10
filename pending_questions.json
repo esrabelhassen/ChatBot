@@ -1,0 +1,1251 @@
+[
+    {
+        "id": "3034628b-ad8b-434b-9df2-0aea1d84becb",
+        "timestamp": "2025-04-17T11:10:52.700529",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "99c7a1d7-86f1-4efb-a35b-7f2ab3d0b003",
+        "timestamp": "2025-04-17T11:24:58.809190",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "2b14685c-6507-4eec-a6ab-73575a1205ad",
+        "timestamp": "2025-04-17T11:40:04.107950",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "447f83d7-c0b0-4bae-8796-16f63717d6ed",
+        "timestamp": "2025-04-18T20:32:59.720425",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "7bb975d2-28c7-4a12-b554-d6430c75eff1",
+        "timestamp": "2025-04-18T20:42:14.815448",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "1a01a5b2-e66b-4fe2-85cb-191aed76a67b",
+        "timestamp": "2025-04-18T22:02:22.641511",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "caf4088d-9c92-4f2a-a289-28b3fa4350c0",
+        "timestamp": "2025-04-18T22:05:35.155412",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "4fb30f08-d7fe-4144-ad7e-e3420d8317ed",
+        "timestamp": "2025-04-19T09:54:46.384642",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "2272e995-d4e7-4ef8-8b90-9d125d7ff2d5",
+        "timestamp": "2025-04-19T12:56:37.069244",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "8767c44e-dc20-44d4-9efc-df9a047d510b",
+        "timestamp": "2025-04-19T13:00:18.095734",
+        "user_email": [
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "hi",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Salut \ud83d\udc4b ! Posez-moi une question pr\u00e9cise sur les proc\u00e9dures universitaires \ud83d\ude0a.",
+                "options": null
+            }
+        ],
+        "question": "comment calculer la moyenne "
+    },
+    {
+        "id": "b691d079-f08e-4f0e-be50-70a451445861",
+        "timestamp": "2025-04-19T13:02:22.624420",
+        "user_email": [
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "hi",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Salut \ud83d\udc4b ! Posez-moi une question pr\u00e9cise sur les proc\u00e9dures universitaires \ud83d\ude0a.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "comment calculer la moyenne ",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Votre question a \u00e9t\u00e9 transmise \u00e0 l'administration. Vous recevrez une r\u00e9ponse par e-mail d\u00e8s que possible.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "quelles sont les avantages de la carte etudiant ",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "D'apr\u00e8s le contexte fourni, les avantages de la carte \u00e9tudiante sont :\n\n\u2022 Acc\u00e8s aux services hospitaliers sans frais.\n\u2022 R\u00e9ductions partielles sur certains \u00e9v\u00e9nements (montant variable selon l'\u00e9v\u00e9nement).\n\u2022 Acc\u00e8s \u00e0 tous les foyers universitaires.\n\u2022 Le droit \u00e0 une reprise des examens ou des Devoirs Surveill\u00e9s (DS) en cas d\u2019absence justifi\u00e9e.",
+                "options": null
+            }
+        ],
+        "question": "can you write me a python code that add two ints "
+    },
+    {
+        "id": "bda4c196-56b4-47ba-9796-1848bece08bf",
+        "timestamp": "2025-04-19T13:22:42.301644",
+        "user_email": [
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "hi",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Salut \ud83d\udc4b ! Posez-moi une question pr\u00e9cise sur les proc\u00e9dures universitaires \ud83d\ude0a.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "comment calculer la moyenne ",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Votre question a \u00e9t\u00e9 transmise \u00e0 l'administration. Vous recevrez une r\u00e9ponse par e-mail d\u00e8s que possible.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "quelles sont les avantages de la carte etudiant ",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "D'apr\u00e8s le contexte fourni, les avantages de la carte \u00e9tudiante sont :\n\n\u2022 Acc\u00e8s aux services hospitaliers sans frais.\n\u2022 R\u00e9ductions partielles sur certains \u00e9v\u00e9nements (montant variable selon l'\u00e9v\u00e9nement).\n\u2022 Acc\u00e8s \u00e0 tous les foyers universitaires.\n\u2022 Le droit \u00e0 une reprise des examens ou des Devoirs Surveill\u00e9s (DS) en cas d\u2019absence justifi\u00e9e.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "can you write me a python code that add two ints ",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Votre question a \u00e9t\u00e9 transmise \u00e0 l'administration. Vous recevrez une r\u00e9ponse par e-mail d\u00e8s que possible.",
+                "options": null
+            }
+        ],
+        "question": "how are you today "
+    },
+    {
+        "id": "97cdd631-c8cd-4f65-8cc8-3f23b6c8334b",
+        "timestamp": "2025-04-19T14:08:25.717041",
+        "user_email": [
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "hi",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Salut \ud83d\udc4b ! Posez-moi une question pr\u00e9cise sur les proc\u00e9dures universitaires \ud83d\ude0a.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "comment calculer la moyenne ",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Votre question a \u00e9t\u00e9 transmise \u00e0 l'administration. Vous recevrez une r\u00e9ponse par e-mail d\u00e8s que possible.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "quelles sont les avantages de la carte etudiant ",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "D'apr\u00e8s le contexte fourni, les avantages de la carte \u00e9tudiante sont :\n\n\u2022 Acc\u00e8s aux services hospitaliers sans frais.\n\u2022 R\u00e9ductions partielles sur certains \u00e9v\u00e9nements (montant variable selon l'\u00e9v\u00e9nement).\n\u2022 Acc\u00e8s \u00e0 tous les foyers universitaires.\n\u2022 Le droit \u00e0 une reprise des examens ou des Devoirs Surveill\u00e9s (DS) en cas d\u2019absence justifi\u00e9e.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "can you write me a python code that add two ints ",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Votre question a \u00e9t\u00e9 transmise \u00e0 l'administration. Vous recevrez une r\u00e9ponse par e-mail d\u00e8s que possible.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "how are you today ",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Votre question a \u00e9t\u00e9 transmise \u00e0 l'administration. Vous recevrez une r\u00e9ponse par e-mail d\u00e8s que possible.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "hi",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Salut \ud83d\udc4b ! Posez-moi une question pr\u00e9cise sur les proc\u00e9dures universitaires \ud83d\ude0a.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "hello",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Salut \ud83d\udc4b ! Posez-moi une question pr\u00e9cise sur les proc\u00e9dures universitaires \ud83d\ude0a.",
+                "options": null
+            }
+        ],
+        "question": "cv"
+    },
+    {
+        "id": "7712f35e-20db-4979-8a54-b2afa3687bc5",
+        "timestamp": "2025-04-19T14:34:08.956401",
+        "user_email": [
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "hi",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Salut \ud83d\udc4b ! Posez-moi une question pr\u00e9cise sur les proc\u00e9dures universitaires \ud83d\ude0a.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "comment calculer la moyenne ",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Votre question a \u00e9t\u00e9 transmise \u00e0 l'administration. Vous recevrez une r\u00e9ponse par e-mail d\u00e8s que possible.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "quelles sont les avantages de la carte etudiant ",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "D'apr\u00e8s le contexte fourni, les avantages de la carte \u00e9tudiante sont :\n\n\u2022 Acc\u00e8s aux services hospitaliers sans frais.\n\u2022 R\u00e9ductions partielles sur certains \u00e9v\u00e9nements (montant variable selon l'\u00e9v\u00e9nement).\n\u2022 Acc\u00e8s \u00e0 tous les foyers universitaires.\n\u2022 Le droit \u00e0 une reprise des examens ou des Devoirs Surveill\u00e9s (DS) en cas d\u2019absence justifi\u00e9e.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "can you write me a python code that add two ints ",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Votre question a \u00e9t\u00e9 transmise \u00e0 l'administration. Vous recevrez une r\u00e9ponse par e-mail d\u00e8s que possible.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "how are you today ",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Votre question a \u00e9t\u00e9 transmise \u00e0 l'administration. Vous recevrez une r\u00e9ponse par e-mail d\u00e8s que possible.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "hi",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Salut \ud83d\udc4b ! Posez-moi une question pr\u00e9cise sur les proc\u00e9dures universitaires \ud83d\ude0a.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "hello",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Salut \ud83d\udc4b ! Posez-moi une question pr\u00e9cise sur les proc\u00e9dures universitaires \ud83d\ude0a.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "cv",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Votre question a \u00e9t\u00e9 transmise \u00e0 l'administration. Vous recevrez une r\u00e9ponse par e-mail d\u00e8s que possible.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "quelles sont les documents pour le stage obligatoires ?",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Selon le contexte, les documents n\u00e9cessaires pour un stage obligatoire sont :\n\n- L'original de la demande de stage sign\u00e9e par l'entreprise\n- Trois copies de la lettre d'affectation \u00e0 faire signer par le directeur des stages\n- Trois copies de la convention de stage sign\u00e9e par l'entreprise et \u00e0 faire signer par le directeur des stages\n- La r\u00e8glementation du stage d\u00fbment sign\u00e9e\n- Deux copies du cahier des charges s'il y en a.",
+                "options": null
+            }
+        ],
+        "question": "quelle sont les enseignant de lFSM"
+    },
+    {
+        "id": "f43128b1-130d-4d47-a315-4efaeb15be3b",
+        "timestamp": "2025-04-19T14:35:23.723487",
+        "user_email": [
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "hi",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Salut \ud83d\udc4b ! Posez-moi une question pr\u00e9cise sur les proc\u00e9dures universitaires \ud83d\ude0a.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "comment calculer la moyenne ",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Votre question a \u00e9t\u00e9 transmise \u00e0 l'administration. Vous recevrez une r\u00e9ponse par e-mail d\u00e8s que possible.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "quelles sont les avantages de la carte etudiant ",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "D'apr\u00e8s le contexte fourni, les avantages de la carte \u00e9tudiante sont :\n\n\u2022 Acc\u00e8s aux services hospitaliers sans frais.\n\u2022 R\u00e9ductions partielles sur certains \u00e9v\u00e9nements (montant variable selon l'\u00e9v\u00e9nement).\n\u2022 Acc\u00e8s \u00e0 tous les foyers universitaires.\n\u2022 Le droit \u00e0 une reprise des examens ou des Devoirs Surveill\u00e9s (DS) en cas d\u2019absence justifi\u00e9e.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "can you write me a python code that add two ints ",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Votre question a \u00e9t\u00e9 transmise \u00e0 l'administration. Vous recevrez une r\u00e9ponse par e-mail d\u00e8s que possible.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "how are you today ",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Votre question a \u00e9t\u00e9 transmise \u00e0 l'administration. Vous recevrez une r\u00e9ponse par e-mail d\u00e8s que possible.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "hi",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Salut \ud83d\udc4b ! Posez-moi une question pr\u00e9cise sur les proc\u00e9dures universitaires \ud83d\ude0a.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "hello",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Salut \ud83d\udc4b ! Posez-moi une question pr\u00e9cise sur les proc\u00e9dures universitaires \ud83d\ude0a.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "cv",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Votre question a \u00e9t\u00e9 transmise \u00e0 l'administration. Vous recevrez une r\u00e9ponse par e-mail d\u00e8s que possible.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "quelles sont les documents pour le stage obligatoires ?",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Selon le contexte, les documents n\u00e9cessaires pour un stage obligatoire sont :\n\n- L'original de la demande de stage sign\u00e9e par l'entreprise\n- Trois copies de la lettre d'affectation \u00e0 faire signer par le directeur des stages\n- Trois copies de la convention de stage sign\u00e9e par l'entreprise et \u00e0 faire signer par le directeur des stages\n- La r\u00e8glementation du stage d\u00fbment sign\u00e9e\n- Deux copies du cahier des charges s'il y en a.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "quelle sont les enseignant de lFSM",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Votre question a \u00e9t\u00e9 transmise \u00e0 l'administration. Vous recevrez une r\u00e9ponse par e-mail d\u00e8s que possible.",
+                "options": null
+            }
+        ],
+        "question": "departement info"
+    },
+    {
+        "id": "2114e2c4-7561-4c6d-9530-4ceead862564",
+        "timestamp": "2025-04-19T14:36:08.726428",
+        "user_email": [
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "hi",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Salut \ud83d\udc4b ! Posez-moi une question pr\u00e9cise sur les proc\u00e9dures universitaires \ud83d\ude0a.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "comment calculer la moyenne ",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Votre question a \u00e9t\u00e9 transmise \u00e0 l'administration. Vous recevrez une r\u00e9ponse par e-mail d\u00e8s que possible.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "quelles sont les avantages de la carte etudiant ",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "D'apr\u00e8s le contexte fourni, les avantages de la carte \u00e9tudiante sont :\n\n\u2022 Acc\u00e8s aux services hospitaliers sans frais.\n\u2022 R\u00e9ductions partielles sur certains \u00e9v\u00e9nements (montant variable selon l'\u00e9v\u00e9nement).\n\u2022 Acc\u00e8s \u00e0 tous les foyers universitaires.\n\u2022 Le droit \u00e0 une reprise des examens ou des Devoirs Surveill\u00e9s (DS) en cas d\u2019absence justifi\u00e9e.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "can you write me a python code that add two ints ",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Votre question a \u00e9t\u00e9 transmise \u00e0 l'administration. Vous recevrez une r\u00e9ponse par e-mail d\u00e8s que possible.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "how are you today ",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Votre question a \u00e9t\u00e9 transmise \u00e0 l'administration. Vous recevrez une r\u00e9ponse par e-mail d\u00e8s que possible.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "hi",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Salut \ud83d\udc4b ! Posez-moi une question pr\u00e9cise sur les proc\u00e9dures universitaires \ud83d\ude0a.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "hello",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Salut \ud83d\udc4b ! Posez-moi une question pr\u00e9cise sur les proc\u00e9dures universitaires \ud83d\ude0a.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "cv",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Votre question a \u00e9t\u00e9 transmise \u00e0 l'administration. Vous recevrez une r\u00e9ponse par e-mail d\u00e8s que possible.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "quelles sont les documents pour le stage obligatoires ?",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Selon le contexte, les documents n\u00e9cessaires pour un stage obligatoire sont :\n\n- L'original de la demande de stage sign\u00e9e par l'entreprise\n- Trois copies de la lettre d'affectation \u00e0 faire signer par le directeur des stages\n- Trois copies de la convention de stage sign\u00e9e par l'entreprise et \u00e0 faire signer par le directeur des stages\n- La r\u00e8glementation du stage d\u00fbment sign\u00e9e\n- Deux copies du cahier des charges s'il y en a.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "quelle sont les enseignant de lFSM",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Votre question a \u00e9t\u00e9 transmise \u00e0 l'administration. Vous recevrez une r\u00e9ponse par e-mail d\u00e8s que possible.",
+                "options": null
+            },
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "departement info",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Votre question a \u00e9t\u00e9 transmise \u00e0 l'administration. Vous recevrez une r\u00e9ponse par e-mail d\u00e8s que possible.",
+                "options": null
+            }
+        ],
+        "question": "why you are not responddiinngg"
+    },
+    {
+        "id": "adbf383d-c1c1-4cd8-8cdf-6a93401f225e",
+        "timestamp": "2025-04-20T16:53:15.311350",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "ea436c95-3362-48c3-ae8e-a7a8011acbee",
+        "timestamp": "2025-04-20T16:56:27.236102",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne "
+    },
+    {
+        "id": "f7cb2ec6-cbd5-4341-95f7-6b14234c1dd4",
+        "timestamp": "2025-04-20T17:09:21.786125",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "66c805df-44e7-4d30-838a-c1fdb73aa2ca",
+        "timestamp": "2025-04-20T17:11:49.758541",
+        "user_email": [
+            {
+                "role": "user",
+                "metadata": null,
+                "content": "hi",
+                "options": null
+            },
+            {
+                "role": "assistant",
+                "metadata": null,
+                "content": "Salut \ud83d\udc4b ! Posez-moi une question pr\u00e9cise sur les proc\u00e9dures universitaires \ud83d\ude0a.",
+                "options": null
+            }
+        ],
+        "question": "comment calculer la moyenne "
+    },
+    {
+        "id": "17c8faae-6672-4a23-a5fb-03fe6fee74bc",
+        "timestamp": "2025-04-20T17:13:42.588207",
+        "user_email": "belhassen.esra@icloud.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "09cc4a71-7a6d-4636-9a6b-5923459eba89",
+        "timestamp": "2025-04-20T17:41:25.488876",
+        "user_email": [
+            [
+                "hi",
+                "Salut \ud83d\udc4b ! Posez-moi une question pr\u00e9cise sur les proc\u00e9dures universitaires \ud83d\ude0a."
+            ]
+        ],
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "6b9aea0e-a369-40b6-9a71-014212556cb6",
+        "timestamp": "2025-04-20T17:44:05.507961",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne "
+    },
+    {
+        "id": "789f3e13-5f39-4534-8d2a-99d49655b9e3",
+        "timestamp": "2025-04-20T18:03:31.986551",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Comment faire une demande de r\u00e9inscription ?"
+    },
+    {
+        "id": "b7b35bf0-1e42-449e-bf60-1cf05e6e94a3",
+        "timestamp": "2025-04-20T18:05:08.461956",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "avantages de la carte etudiante "
+    },
+    {
+        "id": "46447322-0d79-41a9-986b-3cf289cf8482",
+        "timestamp": "2025-04-20T18:07:40.452693",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment faire un stage "
+    },
+    {
+        "id": "d03d2152-ba1e-49bf-9a86-8135589b5381",
+        "timestamp": "2025-04-20T18:09:49.498879",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Quels sont les d\u00e9lais pour la soutenance ?"
+    },
+    {
+        "id": "9df19b5c-ff94-4d4e-9de2-441e708b030f",
+        "timestamp": "2025-04-20T21:00:07.829593",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "d77140ac-02d9-462f-a4e1-4bf261a0796c",
+        "timestamp": "2025-04-20T21:07:02.170922",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "who is joe biden "
+    },
+    {
+        "id": "b72d0e14-ad90-4ac0-88ba-b78c131cdbfa",
+        "timestamp": "2025-04-20T21:39:52.916282",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "who is joe biden"
+    },
+    {
+        "id": "e149fb0b-f4b5-4130-82ff-f394bbd78b27",
+        "timestamp": "2025-04-20T21:41:20.658110",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "who is joe biden "
+    },
+    {
+        "id": "8ef7ee37-6f35-49f3-9fc2-1c2a6f1c3a5a",
+        "timestamp": "2025-04-21T14:47:36.665064",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "6ee61611-820d-4118-90fa-679d3f2d534c",
+        "timestamp": "2025-04-21T15:24:40.181773",
+        "user_email": "@",
+        "question": "comment prendre une attesation de reusiiste"
+    },
+    {
+        "id": "ff95efc1-e521-4d6e-a296-5ff60ef13e8c",
+        "timestamp": "2025-04-21T15:25:51.804640",
+        "user_email": "@gmail.com",
+        "question": "comment cava "
+    },
+    {
+        "id": "50748ac6-95d0-4a34-8afa-04e30f79458a",
+        "timestamp": "2025-04-21T18:48:33.987397",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "55e1972b-587c-4a0b-8d2e-7702ffc32626",
+        "timestamp": "2025-04-22T12:15:20.842608",
+        "user_email": "@gmail.com",
+        "question": "comment calculer la moyenne "
+    },
+    {
+        "id": "eecdd24e-febd-4c06-8bf6-d7fb58889db3",
+        "timestamp": "2025-04-22T12:51:15.361523",
+        "user_email": "@gmail.com",
+        "question": "comment calculer la moyenne "
+    },
+    {
+        "id": "7b7ca660-301f-4fa4-bc9c-4eb7f1421ebd",
+        "timestamp": "2025-04-22T13:38:39.145905",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne ?"
+    },
+    {
+        "id": "a1682857-151f-413f-8f19-23c9dd023635",
+        "timestamp": "2025-04-22T13:45:57.060864",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "i'm so powerfuulll "
+    },
+    {
+        "id": "68299745-624b-439a-bf83-9b6e44f34e6f",
+        "timestamp": "2025-04-23T11:07:52.062029",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment je peux avoir une attestation de pr\u00e9sence de l\u2019universit\u00e9 "
+    },
+    {
+        "id": "82937e09-45c0-4f5e-b78e-79da7e869150",
+        "timestamp": "2025-04-24T09:39:07.174753",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "6b490f64-82a9-4d92-b95e-b8f7ab885e71",
+        "timestamp": "2025-04-24T09:55:09.361400",
+        "user_email": "belahssennesra@gmail.com",
+        "question": "comment calculer la moyenne ?"
+    },
+    {
+        "id": "d6e1f3dc-7d2b-4aae-a92f-076d8e812aa5",
+        "timestamp": "2025-04-24T09:59:18.279598",
+        "user_email": "belahssennesra@gmail.com",
+        "question": "donner un code python qui fait la somme de deux entier "
+    },
+    {
+        "id": "628c4e88-d976-4b6c-b5e3-aacd2e96ad59",
+        "timestamp": "2025-04-24T10:28:45.758941",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne ?"
+    },
+    {
+        "id": "eae3a481-a5b8-4ada-b7c1-3ffc1c974e1a",
+        "timestamp": "2025-04-24T10:32:20.788189",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne "
+    },
+    {
+        "id": "c59c5e30-add5-46ce-9cd7-3b98c24512ad",
+        "timestamp": "2025-04-24T10:34:33.999750",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "donner moi un code python qui fait la somme de deux entier "
+    },
+    {
+        "id": "de2d6336-451a-44a1-b10e-babbc63b46d2",
+        "timestamp": "2025-04-24T10:41:52.163989",
+        "user_email": "hi",
+        "question": "comment calculer la moyenne "
+    },
+    {
+        "id": "a99ecc2e-763a-44d6-b790-fde4e44b5314",
+        "timestamp": "2025-04-24T10:42:18.636829",
+        "user_email": "hi",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "3d232ce5-a8c1-4e9e-b8e4-1348a7372f31",
+        "timestamp": "2025-04-24T10:57:42.215212",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "704049ab-a7a2-46a8-8a69-bb6b622917c4",
+        "timestamp": "2025-04-24T13:16:46.722703",
+        "user_email": "belhasssennesra@gmail.com",
+        "question": "comment calculer la moyenne "
+    },
+    {
+        "id": "9959c58f-5a2d-443f-8e33-0bc75c4a99f5",
+        "timestamp": "2025-04-25T10:13:00.413722",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "7a4d4f94-b576-48cd-83ae-899edcb8efc0",
+        "timestamp": "2025-04-25T10:15:58.219263",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "9bda8985-05b9-467c-b525-69ddbbcf7c6f",
+        "timestamp": "2025-04-25T10:17:27.556019",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "84ae409f-cc8d-4120-9290-5e55043ef5b8",
+        "timestamp": "2025-04-25T11:24:09.236105",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "e4a74294-5e6e-47ba-9b46-534989bcb8ce",
+        "timestamp": "2025-04-25T11:27:34.911024",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "99ab921f-df8f-47d7-a004-a875dae4f19f",
+        "timestamp": "2025-04-25T12:17:03.356270",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne?"
+    },
+    {
+        "id": "59497d4a-6a44-4a8a-8fc8-48e66f9efd18",
+        "timestamp": "2025-04-25T12:40:42.413145",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "6c644582-d211-4c62-89a5-29806e0705bb",
+        "timestamp": "2025-04-25T20:49:01.004413",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "f8cb1591-fa7b-4326-9bd9-30091d3130c2",
+        "timestamp": "2025-04-25T21:10:36.185606",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Quels sont les documents requis pour obtenir mon dipl\u00f4me ?"
+    },
+    {
+        "id": "44b7595f-400f-45c4-b9e4-a20ff23526af",
+        "timestamp": "2025-04-25T21:11:29.643327",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Quels sont les documents  pour obtenir mon dipl\u00f4me ?"
+    },
+    {
+        "id": "f444d1f1-2ea7-4d7a-91bf-6596d7d1ba07",
+        "timestamp": "2025-04-25T21:14:40.377719",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Quels sont les documents requis pour demander mon dipl\u00f4me ?"
+    },
+    {
+        "id": "1f8db7d9-f065-41e7-9037-f45f12384b4e",
+        "timestamp": "2025-04-25T21:29:48.891641",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Formulaire de demande de prolongation de stage de Mast\u00e8re Professionnel"
+    },
+    {
+        "id": "dd0e0bcf-6d45-4237-a582-a669aeed7441",
+        "timestamp": "2025-04-25T22:06:11.516161",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "quelles sont les documents de stages obligatoires "
+    },
+    {
+        "id": "30b7761f-a223-4fdf-b3b7-117565942cde",
+        "timestamp": "2025-04-25T23:01:42.509550",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Stage obligatoires"
+    },
+    {
+        "id": "f8e8c7b1-e68a-4629-abf7-8bfc0826c216",
+        "timestamp": "2025-04-25T23:08:43.654660",
+        "user_email": "belhassennesra@gmail.com",
+        "question": " Existe-t-il des aides ou des soutiens pour les \u00e9tudiants souffrant de stress ?"
+    },
+    {
+        "id": "2fc00b31-9c82-4c37-8881-78658658c4c9",
+        "timestamp": "2025-04-25T23:41:59.351549",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "2a2e49dc-ad06-4fc1-bef6-25e204aa388b",
+        "timestamp": "2025-04-26T14:05:43.303569",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "9c0f0a49-7587-44e9-a353-910d51800ff6",
+        "timestamp": "2025-04-26T19:01:10.689392",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Rephrased Question:  Comment calculer une moyenne arithm\u00e9tique ?"
+    },
+    {
+        "id": "f267e4ea-0684-47d5-8b26-f8e738aceedc",
+        "timestamp": "2025-04-26T19:10:06.638653",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Rephrased Question:  Comment calculer une moyenne arithm\u00e9tique ?"
+    },
+    {
+        "id": "aadee62b-2f59-4976-a5ab-0926dd4a871d",
+        "timestamp": "2025-04-26T19:12:20.169485",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Veuillez me pr\u00e9ciser la liste des documents n\u00e9cessaires \u00e0 l'obtention de mon dipl\u00f4me."
+    },
+    {
+        "id": "0e4a722d-56d0-4f6e-96d8-3d0aa49bd3c8",
+        "timestamp": "2025-04-26T19:14:47.010205",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Veuillez pr\u00e9ciser la liste des documents requis pour un stage effectu\u00e9 au sein de l'entreprise (stage interne) et celle requise pour un stage r\u00e9alis\u00e9 en dehors de l'entreprise (stage externe)."
+    },
+    {
+        "id": "c86e81a0-de6f-4987-b84d-1caeedca2887",
+        "timestamp": "2025-04-26T19:16:45.728650",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Quelle est la liste des documents requis pour effectuer un stage interne ?"
+    },
+    {
+        "id": "a1c1c251-9587-497b-ab15-ee3c240aedad",
+        "timestamp": "2025-04-26T19:22:38.105858",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Quelle est la liste des documents n\u00e9cessaires \u00e0 l'obtention de mon dipl\u00f4me\u00a0?"
+    },
+    {
+        "id": "9e44b1d0-38d4-4781-998c-b748772dc3b4",
+        "timestamp": "2025-04-26T20:09:57.828188",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "d5d7ebae-8693-4e0b-b118-0d6452512a16",
+        "timestamp": "2025-04-27T11:31:52.050631",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne"
+    },
+    {
+        "id": "4bbbcbbf-029e-41a1-84f6-58bcc02efe37",
+        "timestamp": "2025-04-27T11:34:37.336486",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Quels sont les documents requis pour obtenir mon dipl\u00f4me ?"
+    },
+    {
+        "id": "cf7e2147-595d-47db-af18-511c1540ab82",
+        "timestamp": "2025-04-27T11:39:18.999443",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Quels sont les documents requis pour obtenir mon dipl\u00f4me ?"
+    },
+    {
+        "id": "ae9d4ea5-8630-4a55-aa7a-511fd92a229c",
+        "timestamp": "2025-04-27T11:41:32.197829",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Quels sont les documents requis pour obtenir mon dipl\u00f4me ?"
+    },
+    {
+        "id": "dc1cb142-34bb-4b58-8a47-77e884e8555e",
+        "timestamp": "2025-04-27T14:36:04.637750",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne ?"
+    },
+    {
+        "id": "b79a7056-a140-43d6-bd7e-c3a5515640c5",
+        "timestamp": "2025-04-27T14:39:29.030398",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Quels sont les documents requis pour obtenir mon dipl\u00f4me liscence ?"
+    },
+    {
+        "id": "35bf6dc8-cbf6-4595-a8e3-9df67495fd1b",
+        "timestamp": "2025-04-27T14:59:48.116551",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne ?"
+    },
+    {
+        "id": "dffe9f43-c3df-4800-a7ab-3894c998c354",
+        "timestamp": "2025-04-27T15:07:15.857136",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment effectuer deux stages en meme temps ?"
+    },
+    {
+        "id": "a555a1ba-6cb5-4cc9-9c8b-7e020fc26e6c",
+        "timestamp": "2025-04-28T22:22:38.067959",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne ?"
+    },
+    {
+        "id": "9c3f3dee-9584-4409-8aff-b0eed45e38e1",
+        "timestamp": "2025-04-29T11:49:58.935775",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne ?"
+    },
+    {
+        "id": "f20a6c0f-5422-4dd6-9380-f819ed9a8435",
+        "timestamp": "2025-04-29T11:52:32.795970",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "quelles sont les documents de demande de deplome ?"
+    },
+    {
+        "id": "e5f83cab-76fd-40ba-8c61-67f0a5cad0ca",
+        "timestamp": "2025-04-29T11:58:31.091944",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "quelles sont les documents requis pour obtenir mon d\u00e9plome?"
+    },
+    {
+        "id": "a6e07fa6-416c-4bc2-b50f-991a5c048082",
+        "timestamp": "2025-04-29T12:08:37.637014",
+        "user_email": "belhassennesra@gmail.com",
+        "question": " Puis-je effectuer deux stages ?"
+    },
+    {
+        "id": "a3aa81d1-25f4-4b66-9e88-3127bef7d7bd",
+        "timestamp": "2025-04-30T14:42:00.382014",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Quels sont les documents requis pour obtenir mon dipl\u00f4me ?"
+    },
+    {
+        "id": "b9ed0b25-3113-4ac3-9d60-1551a245fe8e",
+        "timestamp": "2025-05-01T11:24:39.794899",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne ?"
+    },
+    {
+        "id": "25148d60-8db8-494f-b128-8ea15606df9c",
+        "timestamp": "2025-05-01T11:40:05.049806",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Comment calculer la moyenne si elle est compos\u00e9e de 0.8 pour l\u2019examen, 0.1 pour \nle DS et 0.1 pour le TP ? \nS\u2019il n\u2019y a pas de TP, quelle est la formule utilis\u00e9e pour calculer la moyenne ?"
+    },
+    {
+        "id": "48c3b6c0-3d8f-44c4-b71e-01903b566d43",
+        "timestamp": "2025-05-01T11:41:28.605628",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Comment savoir si je suis \u00e9limin\u00e9(e) ou non ? "
+    },
+    {
+        "id": "35c44d9e-64c6-4d5d-8083-478613081c81",
+        "timestamp": "2025-05-01T11:42:51.424942",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Est-ce que la FSM suit le syst\u00e8me d\u2019\u00e9limination ?"
+    },
+    {
+        "id": "ab22de50-8fe7-4657-8ab7-e2c88de3d79e",
+        "timestamp": "2025-05-01T11:44:30.480812",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Est-ce que la FSM suit le syst\u00e8me d\u2019\u00e9limination ?"
+    },
+    {
+        "id": "ceeaae8e-ba49-41a5-8156-59e0c9c9c29f",
+        "timestamp": "2025-05-01T11:46:40.017687",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Quels sont les documents n\u00e9cessaires pour un stage obilgatoire et ceux n\u00e9cessaires pour un stage facultatif?"
+    },
+    {
+        "id": "e29724e1-297e-43ac-a848-d807a18bea74",
+        "timestamp": "2025-05-01T11:55:50.683079",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Existe-t-il des aides ou des soutiens pour les \u00e9tudiants souffrant de stress ?"
+    },
+    {
+        "id": "2509715b-9938-410b-88fc-8d0c73b60f74",
+        "timestamp": "2025-05-01T11:58:44.738278",
+        "user_email": "belhassennesra@gmail.com",
+        "question": " Le droit \u00e0 une reprise des examens ou des DS en cas d\u2019absence justifi\u00e9e doit-il \u00eatre accord\u00e9 ?"
+    },
+    {
+        "id": "730b5abd-1eec-44f0-9877-bc9df2ae88ce",
+        "timestamp": "2025-05-01T12:04:23.867326",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "droit \u00e0 une reprise des examens ou des DS en cas d\u2019absence justifi\u00e9e?"
+    },
+    {
+        "id": "b4df6f93-a8cd-484c-9dbf-b987c9f5bd9f",
+        "timestamp": "2025-05-01T12:11:21.484850",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "la faculte des science do you have any informations about it ?"
+    },
+    {
+        "id": "39994ee0-f306-42b6-86b7-3aac3c0e6815",
+        "timestamp": "2025-05-01T12:15:08.359115",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "quelles sont les ensignants de l'FSM?"
+    },
+    {
+        "id": "f5e76328-487b-4372-a015-fcbefc984d51",
+        "timestamp": "2025-05-01T12:15:52.880434",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "quelles sont les ensignants de l'FSM?"
+    },
+    {
+        "id": "5e6d8adf-46d2-4b15-845d-623cf058c331",
+        "timestamp": "2025-05-02T12:09:38.549669",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne ?"
+    },
+    {
+        "id": "6ecfa9ab-c1d8-4b5d-99ea-03fd2c3a7c7f",
+        "timestamp": "2025-05-02T12:13:27.950096",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne ?"
+    },
+    {
+        "id": "32ba0c6e-68f1-49e3-9a71-b72e3de95ba6",
+        "timestamp": "2025-05-02T12:50:26.674567",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne ?"
+    },
+    {
+        "id": "a532513c-6dfe-4ca6-9f1f-4b76cdb58869",
+        "timestamp": "2025-05-03T11:29:54.108198",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne ?"
+    },
+    {
+        "id": "b964d18f-fc4b-42d8-bb98-3b960683fbef",
+        "timestamp": "2025-05-03T11:59:58.090852",
+        "user_email": "belhassennesra@gmail.com",
+        "question": " Donner moi des information sur le parcours LMD Computer Science ?\n"
+    },
+    {
+        "id": "f5fe53fb-c554-46a4-82d2-c5ca416a9f40",
+        "timestamp": "2025-05-03T12:01:01.151913",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Donner moi des information sur le parcours LMD G\u00e9nie Logiciel et Syst\u00e8me        d'Information ?\n"
+    },
+    {
+        "id": "011caffd-8f55-4999-af9b-d2d690728a7d",
+        "timestamp": "2025-05-03T12:01:59.268504",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Donner moi le Plan du cours du G\u00e9nie Logiciel et Syst\u00e8me d'Information ?"
+    },
+    {
+        "id": "df0b3f1b-835c-41c1-b55f-eb2ca10b35b2",
+        "timestamp": "2025-05-03T12:04:12.056181",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Donner moi le Plan du cours du G\u00e9nie Logiciel et Syst\u00e8me d'Information Type Dipl\u00f4me : Licence Domaine : Sciences Exactes et Technologies Mention :Science de l\u2019Informatique"
+    },
+    {
+        "id": "e7cd8d9b-5d6c-4407-a782-89bd88e4a67b",
+        "timestamp": "2025-05-03T12:06:13.468163",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "Donner moi la  demande de prolongation de stage ?"
+    },
+    {
+        "id": "42601f9f-579c-4ad7-905c-f6d2548efd04",
+        "timestamp": "2025-05-03T12:09:00.871963",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "quelle est la fiche d'evaluation de stage dans l'FSM ?"
+    },
+    {
+        "id": "8a7ef3ea-a017-47a0-9579-8fa25a41b751",
+        "timestamp": "2025-05-03T12:13:11.125829",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "qui sont les psychologiques dans l'FSM ?"
+    },
+    {
+        "id": "7ce67c71-16bf-4d73-96f0-4e1413971e4a",
+        "timestamp": "2025-05-09T10:01:16.256716",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne ?"
+    },
+    {
+        "id": "2fb1dc56-ab90-40c5-9d20-a781dbd270b6",
+        "timestamp": "2025-05-09T10:04:31.155394",
+        "user_email": "belhassennesra@gmail.com ",
+        "question": "comment calculer la moyenne ?"
+    },
+    {
+        "id": "20af6015-a629-4457-b981-64900aa3ba4f",
+        "timestamp": "2025-05-10T08:57:57.759071",
+        "user_email": "belhassennesra@gmail.com",
+        "question": "comment calculer la moyenne ?"
+    }
+]

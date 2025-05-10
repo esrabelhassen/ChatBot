@@ -1,0 +1,16 @@
+langchain
+langchain-openai
+langchain-huggingface
+langchain-community
+langchain-core
+sentence-transformers
+transformers
+chromadb
+bs4
+matplotlib
+seaborn
+scikit-learn
+python-dotenv
+gradio
+ollama
+uuid
